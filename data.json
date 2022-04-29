@@ -1,0 +1,104 @@
+{
+    "main_questions": [
+        "To view your balance",
+        "To add amount to your balance",
+        "To view your basic tariff package",
+        "To add addon channel to your tariff package",
+        "To remove the channel from your tariff plan"
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Entertainment",
+            "is_basic_pack": 0
+        },
+        {
+            "id": 2,
+            "name": "Educational",
+            "is_basic_pack": 0
+        },
+        {
+            "id": 3,
+            "name": "Regional",
+            "is_basic_pack": 0
+        },
+        {
+            "id": 4,
+            "name": "Sports",
+            "is_basic_pack": 0
+        },
+        {
+            "id": 5,
+            "name": "Basic Channels",
+            "is_basic_pack": 1
+        }
+    ],
+    "channels": [
+        {
+            "id": 1,
+            "name": "Sony",
+            "category": 1,
+            "price": 2.1
+        },
+        {
+            "id": 2,
+            "name": "StartTV",
+            "category": 1,
+            "price": 2.78999999
+        },
+        {
+            "id": 3,
+            "name": "NGC",
+            "category": 2,
+            "price": 5.5
+        },
+        {
+            "id": 4,
+            "name": "Discovery",
+            "category": 2,
+            "price": 4
+        },
+        {
+            "id": 5,
+            "name": "DD 1",
+            "category": 3,
+            "price": 1
+        },
+        {
+            "id": 6,
+            "name": "ETC",
+            "category": 3,
+            "price": 20
+        },
+        {
+            "id": 7,
+            "name": "Start Sports",
+            "category": 4,
+            "price": 25
+        },
+        {
+            "id": 8,
+            "name": "ESPN",
+            "category": 4,
+            "price": 25
+        },
+        {
+            "id": 9,
+            "name": "9XM",
+            "category": 5,
+            "price": 0
+        },
+        {
+            "id": 10,
+            "name": "Music India",
+            "category": 5,
+            "price": 0
+        },
+        {
+            "id": 11,
+            "name": "Sahara TV",
+            "category": 5,
+            "price": 0
+        }
+    ]
+}
